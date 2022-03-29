@@ -1,7 +1,7 @@
 # Portfolio
 
 <h1 align="center">
-    <img alt="Portfolio" title="Portfolio" src="./assets/images/Starbucks.png" width="820px" />
+    <img alt="Portfolio" title="Portfolio" src="./assets/images/Portfolio - Gustavo Campos.png" width="820px" />
 </h1>
 
 <br>
