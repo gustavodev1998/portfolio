@@ -19,7 +19,7 @@ This project was developed using the following technologies:
 
 
 ## 🔖 Layout
-To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/3-Column-Card/">Portfolio</a>
+To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/portfolio/">Portfolio</a>
 
 ## :memo: License
 
