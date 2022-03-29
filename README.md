@@ -1,7 +1,7 @@
 # Portfolio
 
 <h1 align="center">
-    <img alt="Portfolio" title="Portfolio" src="https://github.com/gustavodev1998/3-Column-Card/blob/ef2530f7e70e37d236e5a7b817603f8d401fa85f/images/3_column_card.png" width="820px" />
+    <img alt="Portfolio" title="Portfolio" src="./assets/images/Starbucks.png" width="820px" />
 </h1>
 
 <br>
